@@ -7,4 +7,4 @@
 - [Day 4 - Tic Tac Toe](./TicTacToe)
 - [Day 5 - Drawing Board](./DrawingBoard)
 - [Day 6 - Quiz](./Quiz)
-- [Day 7 - Drag and Drop](./DragAndDrop) - not yet
+- [Day 7 - Drag and Drop](./DragAndDrop)
